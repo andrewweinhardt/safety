@@ -1,0 +1,2 @@
+# safety
+GitHub Pages
